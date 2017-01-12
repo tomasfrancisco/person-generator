@@ -13,6 +13,7 @@
     "consul": "^0.27.0",
     "ipify": "^1.1.0",
     "json-socket": "^0.2.0",
+    "request": "^2.79.0",
     "underscore": "^1.8.3",
     "winston": "^2.3.0"
   }
